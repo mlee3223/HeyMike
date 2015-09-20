@@ -42,7 +42,7 @@
     NSDictionary *dictionary= [NSJSONSerialization JSONObjectWithData:data options:0 error:nil];
     jsonData = [dictionary objectForKey:@"posts"];
     
-    NSLog(@"%@",jsonData);
+    
    
     
    

@@ -38,7 +38,7 @@
     [nextPageButton setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
     [nextPageButton setBackgroundColor:[UIColor colorWithRed:41/255.0f green:216/255.0f blue:164/255.0f alpha:1.0f]];
     
-    NSLog(@" %@ and %@ and %@",name,food,age);
+    
 }
 
 
